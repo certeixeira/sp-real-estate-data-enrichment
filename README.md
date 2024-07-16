@@ -13,7 +13,6 @@ Este projeto extrai e processa dados detalhados sobre transações imobiliárias
 ## Uso
 
 1. **Pré-requisitos**: Instale as bibliotecas necessárias usando `pip install pandas requests tqdm openpyxl`.
-2. **Execução**: Baixe a planilha `GUIAS-DE-ITBI-PAGAS-2023.xlsx` do link fornecido e execute o script `extract_data.py` para processar os dados.
 
 ## Resultado
 
